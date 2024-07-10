@@ -1,0 +1,27 @@
+
+
+
+
+
+
+.sandeep-pic{
+    width: 445px;
+    height: 550px;
+    flex: 1;
+    display: flex;
+}
+
+
+.sandeep-name{
+    font-size: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+   
+    
+}
+.gmail-sandeep{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+}
